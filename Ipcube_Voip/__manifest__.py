@@ -14,7 +14,7 @@
     # for the full list
     'category': 'Productivity',
     'version': '0.1',
-
+    'images' : ['/static/description/odoocall.png'],
     # any module necessary for this one to work correctly
     'depends': ['base','voip',],
 
