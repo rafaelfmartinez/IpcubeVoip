@@ -9,6 +9,7 @@
     'author': "IPCUBE",
     'website': "https://ipcube.net",
     'license': "LGPL-3",
+    'images': ['/static/description/odoocall.gif',],
     # Categories can be used to filter modules in modules listing
     # Check https://github.com/odoo/odoo/blob/13.0/odoo/addons/base/data/ir_module_category_data.xml
     # for the full list
@@ -27,5 +28,4 @@
     'demo': [
         'demo/demo.xml',
     ],
-    'images': ['/static/description/odoocall.gif',],
 }
