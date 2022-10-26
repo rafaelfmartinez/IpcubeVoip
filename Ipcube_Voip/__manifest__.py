@@ -27,5 +27,5 @@
     'demo': [
         'demo/demo.xml',
     ],
-    'images': ['/static/description/odoocall.gif'],
+    'images': ['/static/description/odoocall.gif',],
 }
