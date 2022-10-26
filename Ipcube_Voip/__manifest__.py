@@ -4,7 +4,7 @@
 
     'summary': "Integration of VOIP with IPCUBE",
 
-    'description': "Ipcube provides voip connectivity to businesses. Our IPCUBE app simplifies connection of your Odoo implementation to the local and international telephony network. You may use Ipcube connector to integrate your existing voice provider or using the Ipcube network.  Now your Odoo users will be able to make and receive phone calls in their browsers from other users or from any phone and to any phone.",
+    'description': "Ipcube provides voip connectivity to businesses. Our IPCUBE app simplifies connection of your Odoo implementation to the local and international telephony network. You may use Ipcube connector to integrate your existing voice provider or using the Ipcube network.  Now your Odoo users will be able to make and receive phone calls in their browsers from other users or from any phone and to any phone.  This module is free to install, but you must contact ipcube.net to activate service.",
 
     'author': "IPCUBE",
     'website': "https://ipcube.net",
