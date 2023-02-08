@@ -5,7 +5,7 @@ class ResConfigSettings(models.TransientModel):
     _inherit = 'res.config.settings'
 
     wsServer = fields.Char("WebSocket", help="The URL of your WebSocket",
-                           default='wss://voip.ipcube.net:8069/ws', config_parameter='voip.wsServer', readonly=True)
+                           default='wss://voip.ipcube.net:8089/ws', config_parameter='voip.wsServer', readonly=True)
     pbx_ip = fields.Char("PBX Server IP", help="The IP adress of your PBX Server",
                          default='voip.ipcube.net', config_parameter='voip.pbx_ip', readonly=True,)
     mode = fields.Selection([
